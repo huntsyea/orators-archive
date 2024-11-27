@@ -1,0 +1,53 @@
+{
+  "title": "I Have a Dream",
+  "speaker": "Martin Luther King Jr.",
+  "date": "1963-08-28",
+  "location": "Washington, D.C.",
+  "category": [
+    "Civil Rights",
+    "Inspiration"
+  ],
+  "era": "20th Century",
+  "tags": [
+    "equality",
+    "justice",
+    "civil rights",
+    "american history"
+  ],
+  "body": {
+    "raw": "\nI am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.\n\nFive score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.\n\nBut one hundred years later, the Negro still is not free. One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination.\n\n# Rhetorical Techniques\n\n- Anaphora: Repetition of \"I have a dream\" and \"One hundred years later\" to emphasize key points\n- Metaphor: Uses light and darkness metaphors (\"beacon light of hope,\" \"joyous daybreak\")\n- Allusion: References to Abraham Lincoln and the Emancipation Proclamation\n- Imagery: Vivid descriptions that paint pictures in listeners' minds\n- Emotional Appeal: Connects with audience through shared values and aspirations\n\n# Modern Applications\n\n## Public Speaking\n- Use repetition strategically to emphasize key messages\n- Build emotional connections through universal themes\n- Incorporate vivid imagery to make abstract concepts concrete\n\n## Leadership Communication\n- Paint a clear vision of the future\n- Address challenges while maintaining hope\n- Connect personal stories to larger causes\n\n## Social Movement Leadership\n- Frame issues in terms of universal values\n- Balance critique with inspiration\n- Use inclusive language to build coalitions",
+    "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),v=(i,e)=>{for(var t in e)o(i,t,{get:e[t],enumerable:!0})},s=(i,e,t,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of p(e))!y.call(i,a)&&a!==t&&o(i,a,{get:()=>e[a],enumerable:!(r=u(e,a))||r.enumerable});return i};var w=(i,e,t)=>(t=i!=null?m(g(i)):{},s(e||!i||!i.__esModule?o(t,\"default\",{value:i,enumerable:!0}):t,i)),b=i=>s(o({},\"__esModule\",{value:!0}),i);var h=f((C,l)=>{l.exports=_jsx_runtime});var k={};v(k,{default:()=>d,frontmatter:()=>j});var n=w(h()),j={title:\"I Have a Dream\",speaker:\"Martin Luther King Jr.\",date:\"1963-08-28\",location:\"Washington, D.C.\",category:[\"Civil Rights\",\"Inspiration\"],era:\"20th Century\",tags:[\"equality\",\"justice\",\"civil rights\",\"american history\"]};function c(i){let e={h1:\"h1\",h2:\"h2\",li:\"li\",p:\"p\",ul:\"ul\",...i.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.\"}),`\n`,(0,n.jsx)(e.p,{children:\"Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.\"}),`\n`,(0,n.jsx)(e.p,{children:\"But one hundred years later, the Negro still is not free. One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination.\"}),`\n`,(0,n.jsx)(e.h1,{id:\"rhetorical-techniques\",children:\"Rhetorical Techniques\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:'Anaphora: Repetition of \"I have a dream\" and \"One hundred years later\" to emphasize key points'}),`\n`,(0,n.jsx)(e.li,{children:'Metaphor: Uses light and darkness metaphors (\"beacon light of hope,\" \"joyous daybreak\")'}),`\n`,(0,n.jsx)(e.li,{children:\"Allusion: References to Abraham Lincoln and the Emancipation Proclamation\"}),`\n`,(0,n.jsx)(e.li,{children:\"Imagery: Vivid descriptions that paint pictures in listeners' minds\"}),`\n`,(0,n.jsx)(e.li,{children:\"Emotional Appeal: Connects with audience through shared values and aspirations\"}),`\n`]}),`\n`,(0,n.jsx)(e.h1,{id:\"modern-applications\",children:\"Modern Applications\"}),`\n`,(0,n.jsx)(e.h2,{id:\"public-speaking\",children:\"Public Speaking\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Use repetition strategically to emphasize key messages\"}),`\n`,(0,n.jsx)(e.li,{children:\"Build emotional connections through universal themes\"}),`\n`,(0,n.jsx)(e.li,{children:\"Incorporate vivid imagery to make abstract concepts concrete\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{id:\"leadership-communication\",children:\"Leadership Communication\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Paint a clear vision of the future\"}),`\n`,(0,n.jsx)(e.li,{children:\"Address challenges while maintaining hope\"}),`\n`,(0,n.jsx)(e.li,{children:\"Connect personal stories to larger causes\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{id:\"social-movement-leadership\",children:\"Social Movement Leadership\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Frame issues in terms of universal values\"}),`\n`,(0,n.jsx)(e.li,{children:\"Balance critique with inspiration\"}),`\n`,(0,n.jsx)(e.li,{children:\"Use inclusive language to build coalitions\"}),`\n`]})]})}function d(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,{...i,children:(0,n.jsx)(c,{...i})}):c(i)}return b(k);})();\n;return Component;"
+  },
+  "_id": "speeches/i-have-a-dream.mdx",
+  "_raw": {
+    "sourceFilePath": "speeches/i-have-a-dream.mdx",
+    "sourceFileName": "i-have-a-dream.mdx",
+    "sourceFileDir": "speeches",
+    "contentType": "mdx",
+    "flattenedPath": "speeches/i-have-a-dream"
+  },
+  "type": "Speech",
+  "slug": "i-have-a-dream",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Rhetorical Techniques"
+    },
+    {
+      "level": 1,
+      "text": "Modern Applications"
+    },
+    {
+      "level": 2,
+      "text": "Public Speaking"
+    },
+    {
+      "level": 2,
+      "text": "Leadership Communication"
+    },
+    {
+      "level": 2,
+      "text": "Social Movement Leadership"
+    }
+  ]
+}

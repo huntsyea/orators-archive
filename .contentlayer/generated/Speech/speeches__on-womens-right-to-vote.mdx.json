@@ -1,0 +1,42 @@
+{
+  "title": "On Women's Right to Vote",
+  "speaker": "Susan B. Anthony",
+  "date": "1873-04-03",
+  "location": "Ontario County Courthouse, New York",
+  "category": [
+    "Civil Rights",
+    "Politics",
+    "Justice"
+  ],
+  "era": "19th Century",
+  "tags": [
+    "women's rights",
+    "suffrage",
+    "american history",
+    "equality"
+  ],
+  "body": {
+    "raw": "\nFriends and fellow citizens: I stand before you tonight under indictment for the alleged crime of having voted at the last presidential election, without having a lawful right to vote. It shall be my work this evening to prove to you that in thus voting, I not only committed no crime, but, instead, simply exercised my citizen's rights, guaranteed to me and all United States citizens by the National Constitution, beyond the power of any state to deny.\n\nThe preamble of the Federal Constitution says: \"We, the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.\"\n\n# Rhetorical Techniques\n\n- **Legal Argumentation**: Using constitutional text to support rights\n- **Direct Address**: Speaking to audience as \"Friends and fellow citizens\"\n- **Logical Structure**: Building case through systematic reasoning\n- **Appeal to Justice**: Framing voting as a fundamental right\n- **Historical Context**: Connecting to founding documents\n\n# Modern Applications\n\n1. **Rights Advocacy**\n   - Ground arguments in fundamental principles\n   - Use precise, authoritative language\n   - Connect individual cases to broader rights\n\n2. **Legal Communication**\n   - Build systematic, logical arguments\n   - Use authoritative sources effectively\n   - Balance emotion with reason\n\n3. **Social Justice Leadership**\n   - Frame issues in terms of fundamental rights\n   - Challenge unjust systems systematically\n   - Build coalitions through shared values ",
+    "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),v=(t,e)=>{for(var i in e)o(t,i,{get:e[i],enumerable:!0})},s=(t,e,i,l)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of m(e))!f.call(t,r)&&r!==i&&o(t,r,{get:()=>e[r],enumerable:!(l=g(e,r))||l.enumerable});return t};var C=(t,e,i)=>(i=t!=null?u(p(t)):{},s(e||!t||!t.__esModule?o(i,\"default\",{value:t,enumerable:!0}):i,t)),x=t=>s(o({},\"__esModule\",{value:!0}),t);var c=y((A,a)=>{a.exports=_jsx_runtime});var w={};v(w,{default:()=>h,frontmatter:()=>b});var n=C(c()),b={title:\"On Women's Right to Vote\",speaker:\"Susan B. Anthony\",date:\"1873-04-03\",location:\"Ontario County Courthouse, New York\",category:[\"Civil Rights\",\"Politics\",\"Justice\"],era:\"19th Century\",tags:[\"women's rights\",\"suffrage\",\"american history\",\"equality\"]};function d(t){let e={h1:\"h1\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Friends and fellow citizens: I stand before you tonight under indictment for the alleged crime of having voted at the last presidential election, without having a lawful right to vote. It shall be my work this evening to prove to you that in thus voting, I not only committed no crime, but, instead, simply exercised my citizen's rights, guaranteed to me and all United States citizens by the National Constitution, beyond the power of any state to deny.\"}),`\n`,(0,n.jsx)(e.p,{children:'The preamble of the Federal Constitution says: \"We, the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.\"'}),`\n`,(0,n.jsx)(e.h1,{id:\"rhetorical-techniques\",children:\"Rhetorical Techniques\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Legal Argumentation\"}),\": Using constitutional text to support rights\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Direct Address\"}),': Speaking to audience as \"Friends and fellow citizens\"']}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Logical Structure\"}),\": Building case through systematic reasoning\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Appeal to Justice\"}),\": Framing voting as a fundamental right\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Historical Context\"}),\": Connecting to founding documents\"]}),`\n`]}),`\n`,(0,n.jsx)(e.h1,{id:\"modern-applications\",children:\"Modern Applications\"}),`\n`,(0,n.jsxs)(e.ol,{children:[`\n`,(0,n.jsxs)(e.li,{children:[`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"Rights Advocacy\"})}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Ground arguments in fundamental principles\"}),`\n`,(0,n.jsx)(e.li,{children:\"Use precise, authoritative language\"}),`\n`,(0,n.jsx)(e.li,{children:\"Connect individual cases to broader rights\"}),`\n`]}),`\n`]}),`\n`,(0,n.jsxs)(e.li,{children:[`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"Legal Communication\"})}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Build systematic, logical arguments\"}),`\n`,(0,n.jsx)(e.li,{children:\"Use authoritative sources effectively\"}),`\n`,(0,n.jsx)(e.li,{children:\"Balance emotion with reason\"}),`\n`]}),`\n`]}),`\n`,(0,n.jsxs)(e.li,{children:[`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"Social Justice Leadership\"})}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Frame issues in terms of fundamental rights\"}),`\n`,(0,n.jsx)(e.li,{children:\"Challenge unjust systems systematically\"}),`\n`,(0,n.jsx)(e.li,{children:\"Build coalitions through shared values\"}),`\n`]}),`\n`]}),`\n`]})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(d,{...t})}):d(t)}return x(w);})();\n;return Component;"
+  },
+  "_id": "speeches/on-womens-right-to-vote.mdx",
+  "_raw": {
+    "sourceFilePath": "speeches/on-womens-right-to-vote.mdx",
+    "sourceFileName": "on-womens-right-to-vote.mdx",
+    "sourceFileDir": "speeches",
+    "contentType": "mdx",
+    "flattenedPath": "speeches/on-womens-right-to-vote"
+  },
+  "type": "Speech",
+  "slug": "on-womens-right-to-vote",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Rhetorical Techniques"
+    },
+    {
+      "level": 1,
+      "text": "Modern Applications"
+    }
+  ]
+}

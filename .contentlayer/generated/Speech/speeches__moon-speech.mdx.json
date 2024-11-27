@@ -1,0 +1,42 @@
+{
+  "title": "We Choose to Go to the Moon",
+  "speaker": "John F. Kennedy",
+  "date": "1962-09-12",
+  "location": "Rice University, Houston, Texas",
+  "category": [
+    "Inspiration",
+    "Science",
+    "Politics"
+  ],
+  "era": "20th Century",
+  "tags": [
+    "space",
+    "science",
+    "american history",
+    "innovation"
+  ],
+  "body": {
+    "raw": "\nWe choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.\n\nYet the vows of this Nation can only be fulfilled if we in this Nation are first, and, therefore, we intend to be first. In short, our leadership in science and in industry, our hopes for peace and security, our obligations to ourselves as well as others, all require us to make this effort, to solve these mysteries, to solve them for the good of all men, and to become the world's leading space-faring nation.\n\n# Rhetorical Techniques\n\n- **Anaphora**: Repetition of \"We choose\" to emphasize determination and choice\n- **Antithesis**: Contrasting \"easy\" with \"hard\" to highlight the challenge\n- **Inclusive Language**: Use of \"we\" and \"our\" to unite the audience\n- **Climactic Structure**: Building from choice to national destiny\n- **Appeal to Higher Purpose**: Connecting space exploration to human progress\n\n# Modern Applications\n\n1. **Leadership Communication**\n   - Frame challenges as opportunities\n   - Connect immediate goals to larger vision\n   - Build collective ownership through inclusive language\n\n2. **Project Management**\n   - Set ambitious but clear timelines\n   - Acknowledge difficulties while maintaining optimism\n   - Link project goals to broader organizational mission\n\n3. **Innovation Advocacy**\n   - Emphasize long-term benefits over short-term difficulties\n   - Build support through shared values and aspirations\n   - Use challenges as motivation rather than deterrent ",
+    "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var w=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),v=(i,e)=>{for(var t in e)r(i,t,{get:e[t],enumerable:!0})},a=(i,e,t,l)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of p(e))!f.call(i,o)&&o!==t&&r(i,o,{get:()=>e[o],enumerable:!(l=g(e,o))||l.enumerable});return i};var y=(i,e,t)=>(t=i!=null?u(m(i)):{},a(e||!i||!i.__esModule?r(t,\"default\",{value:i,enumerable:!0}):t,i)),b=i=>a(r({},\"__esModule\",{value:!0}),i);var h=w((_,s)=>{s.exports=_jsx_runtime});var C={};v(C,{default:()=>d,frontmatter:()=>x});var n=y(h()),x={title:\"We Choose to Go to the Moon\",speaker:\"John F. Kennedy\",date:\"1962-09-12\",location:\"Rice University, Houston, Texas\",category:[\"Inspiration\",\"Science\",\"Politics\"],era:\"20th Century\",tags:[\"space\",\"science\",\"american history\",\"innovation\"]};function c(i){let e={h1:\"h1\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...i.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.\"}),`\n`,(0,n.jsx)(e.p,{children:\"Yet the vows of this Nation can only be fulfilled if we in this Nation are first, and, therefore, we intend to be first. In short, our leadership in science and in industry, our hopes for peace and security, our obligations to ourselves as well as others, all require us to make this effort, to solve these mysteries, to solve them for the good of all men, and to become the world's leading space-faring nation.\"}),`\n`,(0,n.jsx)(e.h1,{id:\"rhetorical-techniques\",children:\"Rhetorical Techniques\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Anaphora\"}),': Repetition of \"We choose\" to emphasize determination and choice']}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Antithesis\"}),': Contrasting \"easy\" with \"hard\" to highlight the challenge']}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Inclusive Language\"}),': Use of \"we\" and \"our\" to unite the audience']}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Climactic Structure\"}),\": Building from choice to national destiny\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Appeal to Higher Purpose\"}),\": Connecting space exploration to human progress\"]}),`\n`]}),`\n`,(0,n.jsx)(e.h1,{id:\"modern-applications\",children:\"Modern Applications\"}),`\n`,(0,n.jsxs)(e.ol,{children:[`\n`,(0,n.jsxs)(e.li,{children:[`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"Leadership Communication\"})}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Frame challenges as opportunities\"}),`\n`,(0,n.jsx)(e.li,{children:\"Connect immediate goals to larger vision\"}),`\n`,(0,n.jsx)(e.li,{children:\"Build collective ownership through inclusive language\"}),`\n`]}),`\n`]}),`\n`,(0,n.jsxs)(e.li,{children:[`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"Project Management\"})}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Set ambitious but clear timelines\"}),`\n`,(0,n.jsx)(e.li,{children:\"Acknowledge difficulties while maintaining optimism\"}),`\n`,(0,n.jsx)(e.li,{children:\"Link project goals to broader organizational mission\"}),`\n`]}),`\n`]}),`\n`,(0,n.jsxs)(e.li,{children:[`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.strong,{children:\"Innovation Advocacy\"})}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsx)(e.li,{children:\"Emphasize long-term benefits over short-term difficulties\"}),`\n`,(0,n.jsx)(e.li,{children:\"Build support through shared values and aspirations\"}),`\n`,(0,n.jsx)(e.li,{children:\"Use challenges as motivation rather than deterrent\"}),`\n`]}),`\n`]}),`\n`]})]})}function d(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,{...i,children:(0,n.jsx)(c,{...i})}):c(i)}return b(C);})();\n;return Component;"
+  },
+  "_id": "speeches/moon-speech.mdx",
+  "_raw": {
+    "sourceFilePath": "speeches/moon-speech.mdx",
+    "sourceFileName": "moon-speech.mdx",
+    "sourceFileDir": "speeches",
+    "contentType": "mdx",
+    "flattenedPath": "speeches/moon-speech"
+  },
+  "type": "Speech",
+  "slug": "moon-speech",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Rhetorical Techniques"
+    },
+    {
+      "level": 1,
+      "text": "Modern Applications"
+    }
+  ]
+}

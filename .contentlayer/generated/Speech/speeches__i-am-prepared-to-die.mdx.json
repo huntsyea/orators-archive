@@ -1,0 +1,42 @@
+{
+  "title": "I Am Prepared to Die",
+  "speaker": "Nelson Mandela",
+  "date": "1964-04-20",
+  "location": "Supreme Court of South Africa, Pretoria",
+  "category": [
+    "Civil Rights",
+    "Justice",
+    "Politics"
+  ],
+  "era": "20th Century",
+  "tags": [
+    "apartheid",
+    "african history",
+    "freedom",
+    "equality"
+  ],
+  "body": {
+    "raw": "\nI have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die.\n\nDuring my lifetime I have dedicated myself to this struggle of the African people. I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons will live together in harmony with equal opportunities. It is an ideal which I hope to live for and to see realised. But my lord, if needs be, it is an ideal for which I am prepared to die.\n\n# Rhetorical Techniques\n\n- **Personal Testimony**: Speaking from direct experience\n- **Parallel Structure**: Balancing fighting against both white and black domination\n- **Moral Conviction**: Expressing willingness to die for beliefs\n- **Universal Values**: Appealing to democratic ideals\n- **Emotional Resonance**: Combining personal sacrifice with collective good\n\n# Modern Applications\n\n1. **Values-Based Leadership**\n   - Stand firmly for principles\n   - Balance opposing forces\n   - Demonstrate personal commitment\n\n2. **Social Movement Communication**\n   - Connect personal story to universal values\n   - Address multiple audiences\n   - Show willingness to sacrifice for cause\n\n3. **Conflict Resolution**\n   - Focus on shared ideals\n   - Acknowledge all sides' concerns\n   - Maintain moral clarity while seeking unity ",
+    "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),w=(n,e)=>{for(var l in e)t(n,l,{get:e[l],enumerable:!0})},a=(n,e,l,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of m(e))!f.call(n,r)&&r!==l&&t(n,r,{get:()=>e[r],enumerable:!(o=u(e,r))||o.enumerable});return n};var y=(n,e,l)=>(l=n!=null?p(g(n)):{},a(e||!n||!n.__esModule?t(l,\"default\",{value:n,enumerable:!0}):l,n)),I=n=>a(t({},\"__esModule\",{value:!0}),n);var h=v((M,c)=>{c.exports=_jsx_runtime});var C={};w(C,{default:()=>d,frontmatter:()=>x});var i=y(h()),x={title:\"I Am Prepared to Die\",speaker:\"Nelson Mandela\",date:\"1964-04-20\",location:\"Supreme Court of South Africa, Pretoria\",category:[\"Civil Rights\",\"Justice\",\"Politics\"],era:\"20th Century\",tags:[\"apartheid\",\"african history\",\"freedom\",\"equality\"]};function s(n){let e={h1:\"h1\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.p,{children:\"I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die.\"}),`\n`,(0,i.jsx)(e.p,{children:\"During my lifetime I have dedicated myself to this struggle of the African people. I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons will live together in harmony with equal opportunities. It is an ideal which I hope to live for and to see realised. But my lord, if needs be, it is an ideal for which I am prepared to die.\"}),`\n`,(0,i.jsx)(e.h1,{id:\"rhetorical-techniques\",children:\"Rhetorical Techniques\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Personal Testimony\"}),\": Speaking from direct experience\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Parallel Structure\"}),\": Balancing fighting against both white and black domination\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Moral Conviction\"}),\": Expressing willingness to die for beliefs\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Universal Values\"}),\": Appealing to democratic ideals\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Emotional Resonance\"}),\": Combining personal sacrifice with collective good\"]}),`\n`]}),`\n`,(0,i.jsx)(e.h1,{id:\"modern-applications\",children:\"Modern Applications\"}),`\n`,(0,i.jsxs)(e.ol,{children:[`\n`,(0,i.jsxs)(e.li,{children:[`\n`,(0,i.jsx)(e.p,{children:(0,i.jsx)(e.strong,{children:\"Values-Based Leadership\"})}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsx)(e.li,{children:\"Stand firmly for principles\"}),`\n`,(0,i.jsx)(e.li,{children:\"Balance opposing forces\"}),`\n`,(0,i.jsx)(e.li,{children:\"Demonstrate personal commitment\"}),`\n`]}),`\n`]}),`\n`,(0,i.jsxs)(e.li,{children:[`\n`,(0,i.jsx)(e.p,{children:(0,i.jsx)(e.strong,{children:\"Social Movement Communication\"})}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsx)(e.li,{children:\"Connect personal story to universal values\"}),`\n`,(0,i.jsx)(e.li,{children:\"Address multiple audiences\"}),`\n`,(0,i.jsx)(e.li,{children:\"Show willingness to sacrifice for cause\"}),`\n`]}),`\n`]}),`\n`,(0,i.jsxs)(e.li,{children:[`\n`,(0,i.jsx)(e.p,{children:(0,i.jsx)(e.strong,{children:\"Conflict Resolution\"})}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsx)(e.li,{children:\"Focus on shared ideals\"}),`\n`,(0,i.jsx)(e.li,{children:\"Acknowledge all sides' concerns\"}),`\n`,(0,i.jsx)(e.li,{children:\"Maintain moral clarity while seeking unity\"}),`\n`]}),`\n`]}),`\n`]})]})}function d(n={}){let{wrapper:e}=n.components||{};return e?(0,i.jsx)(e,{...n,children:(0,i.jsx)(s,{...n})}):s(n)}return I(C);})();\n;return Component;"
+  },
+  "_id": "speeches/i-am-prepared-to-die.mdx",
+  "_raw": {
+    "sourceFilePath": "speeches/i-am-prepared-to-die.mdx",
+    "sourceFileName": "i-am-prepared-to-die.mdx",
+    "sourceFileDir": "speeches",
+    "contentType": "mdx",
+    "flattenedPath": "speeches/i-am-prepared-to-die"
+  },
+  "type": "Speech",
+  "slug": "i-am-prepared-to-die",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Rhetorical Techniques"
+    },
+    {
+      "level": 1,
+      "text": "Modern Applications"
+    }
+  ]
+}
